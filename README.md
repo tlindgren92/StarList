@@ -6,7 +6,7 @@ StarList is a gamified productivity application that integrates task management 
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 ### 📋 Task Management
 - Create, organize, and prioritize your tasks with ease
